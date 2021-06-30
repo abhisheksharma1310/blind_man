@@ -1,4 +1,5 @@
 # blind_man
+
 This device can be used by the blind man. It detect obstacles wherever he move.
 It can be embedd in the cap of the blind person.
 Whenever any obstacle is encountered buzer start beeps.
@@ -74,6 +75,8 @@ void beepNo(){
 }
 </code>
 </pre>
+
+<p>Schematic for the Blind Man Device</p>
 
 <img src = "https://github.com/abhisheksharma1310/blind_man/blob/main/Blind%20Man%20Device%20Schematic.png">
 
